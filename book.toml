@@ -1,0 +1,6 @@
+[book]
+authors = ["liyang"]
+language = "en"
+multilingual = false
+src = "src"
+title = "电脑义务维修中心维修手册"
