@@ -2,7 +2,7 @@
 
 1.微PE
 
-![img](./assets/clip_image001.gif)
+![img](./assets/微PE截图.png)
 
 2.优启通
 
