@@ -63,5 +63,5 @@ DragonKMS下载地址2：https://pan.baidu.com/s/1te0e12CBehHYsW61Vsw4QA?pwd=888
 
 此为激活工具的界面
 
-<img width="328" alt="1730129096281" src="https://github.com/user-attachments/assets/a47b6b33-9e53-4064-b5a3-914f37c70a7c">
+![img](./assets/yunmeng.png)
 
