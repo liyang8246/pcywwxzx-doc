@@ -6,4 +6,4 @@
 
 2.优启通
 
-![img](./assets/clip_image003.jpg)
+![img](./assets/优启通截图.png)
