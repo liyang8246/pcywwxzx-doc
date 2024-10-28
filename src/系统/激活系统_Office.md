@@ -53,8 +53,15 @@ DragonKMS下载地址2：https://pan.baidu.com/s/1te0e12CBehHYsW61Vsw4QA?pwd=888
 
 方式二
 
-使用Microsoft数字激活方式激活(激活程序同样可被杀毒软件误删，激活前请进行相应预防工作)
+使用Microsoft数字权利激活方式激活(激活程序同样可被杀毒软件误删，激活前请进行相应预防工作)
+
+此方法将欺骗性的硬件ID发给Microsoft以获取授权许可，在硬件发生更改的情况下将会失效
 
 这里以云萌激活工具作为展示
 
 下载地址:https://cmwtat.cloudmoe.com/cn.html?lengmao
+
+此为激活工具的界面
+
+<img width="328" alt="1730129096281" src="https://github.com/user-attachments/assets/a47b6b33-9e53-4064-b5a3-914f37c70a7c">
+
