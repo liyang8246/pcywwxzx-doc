@@ -7,7 +7,3 @@
 2.优启通
 
 ![img](./assets/clip_image003.jpg)
-
-3.大白菜
-
-![img](./assets/clip_image005.gif)
