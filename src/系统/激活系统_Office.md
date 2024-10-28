@@ -65,3 +65,5 @@ DragonKMS下载地址2：https://pan.baidu.com/s/1te0e12CBehHYsW61Vsw4QA?pwd=888
 
 ![img](./assets/yunmeng.png)
 
+先择对应操作系统激活即可
+
