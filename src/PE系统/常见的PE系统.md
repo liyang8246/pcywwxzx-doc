@@ -2,7 +2,7 @@
 
 1.微PE
 
-![img](./assets/pe.webm)
+![img](./assets/pe.webp)
 
 2.优启通
 
