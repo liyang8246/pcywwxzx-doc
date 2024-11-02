@@ -2,6 +2,8 @@
 
 激活系统
 
+方式一
+
 使用神龙KMS进行激活（有时会被电脑杀毒软件误删，具体操作见下文）
 
 网址：http://www.yishimei.cn/network/319.html 该网址内讲述了使用方法。
@@ -30,7 +32,6 @@ DragonKMS下载地址2：https://pan.baidu.com/s/1te0e12CBehHYsW61Vsw4QA?pwd=888
 
 ![img](./assets/clip_image008-1712303985528-4.gif)
 
- 
 
 激活Office
 
@@ -49,3 +50,20 @@ DragonKMS下载地址2：https://pan.baidu.com/s/1te0e12CBehHYsW61Vsw4QA?pwd=888
 ![img](./assets/clip_image014.gif)
 
 待右下角出现成功信息后，点击最上方激活按钮，静候佳音。若有错误代码，请检查许可证版本是否对应、KMS主机是否设置正确。成功后，进入任意Office软件，可以看到已经激活成功。
+
+方式二
+
+使用Microsoft数字权利激活方式激活(激活程序同样可被杀毒软件误删，激活前请进行相应预防工作)
+
+此方法将欺骗性的硬件ID发给Microsoft以获取授权许可，在硬件发生更改的情况下将会失效
+
+这里以云萌激活工具作为展示
+
+下载地址:https://cmwtat.cloudmoe.com/cn.html?lengmao
+
+此为激活工具的界面
+
+![img](./assets/yunmeng.png)
+
+先择对应操作系统激活即可
+
