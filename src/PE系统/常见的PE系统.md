@@ -2,12 +2,8 @@
 
 1.微PE
 
-![img](./assets/clip_image001.gif)
+![img](./assets/微PE截图.png)
 
 2.优启通
 
-![img](./assets/clip_image003.jpg)
-
-3.大白菜
-
-![img](./assets/clip_image005.gif)
+![img](./assets/优启通截图.png)
