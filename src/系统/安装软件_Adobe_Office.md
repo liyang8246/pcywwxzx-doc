@@ -25,7 +25,7 @@ a.进入网址： [Office Tools Plus](https://otp.landian.vip/zh-cn/) 下载Offi
 
 b.**解压** 下载的文件，打开Office Tools Plus.exe 选择 一键部署 的 Office 365（家庭和个人版）
 
-![image](./assets/office tools.png)
+![image](./assets/officetools.png)
 
 c.前往部署页面，建议只选择 PowerPoint Excel Word 三件套。如有额外需要自行勾选。
 
