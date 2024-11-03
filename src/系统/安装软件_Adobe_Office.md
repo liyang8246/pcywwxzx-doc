@@ -23,7 +23,7 @@ a.进入网址： [Office Tools Plus](https://otp.landian.vip/zh-cn/) 下载Offi
 
 ![image](./assets/index.png)
 
-b.**解压** 下载的文件，打开Office Tools Plus.exe 选择 一键部署 的 Office 365（家庭和个人版）
+b.**解压** 下载的文件，打开Office Tools Plus.exe 选择 一键部署 的 2021批量许可证
 
 ![image](./assets/officetools.png)
 
