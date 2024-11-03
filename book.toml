@@ -1,6 +1,10 @@
 [book]
 authors = ["liyang"]
-language = "en"
+language = "zh"
 multilingual = false
 src = "src"
 title = "电脑义务维修中心维修手册"
+
+[output.html]
+git-repository-url = "https://github.com/liyang8246/pcywwxzx-doc/tree/master"
+edit-url-template  = "https://github.com/liyang8246/pcywwxzx-doc/edit/master/{path}"
